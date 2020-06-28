@@ -1,2 +1,2 @@
 # Android_Notepad
-Android App: Norepad
+Android App: Notepad
